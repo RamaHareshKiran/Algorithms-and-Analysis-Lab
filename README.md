@@ -1,5 +1,3 @@
-Sure! Here’s a more visually appealing representation of your links with a title:
-
 ---
 
 # Algorithms and Analysis Lab
@@ -11,5 +9,3 @@ Sure! Here’s a more visually appealing representation of your links with a tit
 [Explore Various Algorithms](https://github.com/RamaHareshKiran/Algorithms-and-Analysis-Lab/tree/Algorithms)
 
 ---
-
-Feel free to customize it further!
